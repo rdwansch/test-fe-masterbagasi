@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "nama": "Kopi Kapal API",
+      "foto": "/KapalApi.png",
+      "harga_barang": 25000,
+      "berat_barang": 0.17,
+      "jumlah_barang": 5,
+      "total_berat": 0.83,
+      "total_harga": 25000
+    },
+    {
+      "nama": "Sariwangi",
+      "foto": "/sariwangi.jpg",
+      "harga_barang": 27500,
+      "berat_barang": 0.87,
+      "jumlah_barang": 1,
+      "total_berat": 0.84,
+      "total_harga": 25000
+    },
+    {
+      "nama": "Sabun Cair",
+      "foto": "/EmptyProduct.png",
+      "harga_barang": 15000,
+      "berat_barang": 0.5,
+      "jumlah_barang": 1,
+      "total_berat": 0.5,
+      "total_harga": 15000
+    },
+    {
+      "nama": "Indomie Goreng",
+      "foto": "/IndomieGoreng.webp",
+      "harga_barang": 30000,
+      "berat_barang": 0.35,
+      "jumlah_barang": 10,
+      "total_berat": 3.5,
+      "total_harga": 30000
+    },
+    {
+      "nama": "Pop Mie",
+      "foto": "/popmie.png",
+      "harga_barang": 3500,
+      "berat_barang": 0.7,
+      "jumlah_barang": 5,
+      "total_berat": 3.5,
+      "total_harga": 17500
+    },
+    {
+      "nama": "Beras Pulen",
+      "foto": "/EmptyProduct.png",
+      "harga_barang": 130000,
+      "berat_barang": 5,
+      "jumlah_barang": 1,
+      "total_berat": 5,
+      "total_harga": 130000
+    },
+    {
+      "nama": "Saus ABC",
+      "foto": "/SausABC.jpg",
+      "harga_barang": 7000,
+      "berat_barang": 0.3,
+      "jumlah_barang": 1,
+      "total_berat": 0.3,
+      "total_harga": 7000
+    },
+    {
+      "nama": "Susu UHT ",
+      "foto": "/susuUHT.jpg",
+      "harga_barang": 10000,
+      "berat_barang": 1,
+      "jumlah_barang": 2,
+      "total_berat": 2,
+      "total_harga": 20000
+    }
+  ]
+}
